@@ -1,4 +1,4 @@
-/*
+/**
  * Clase que calcula el factorial de un número
  */
 public class Factorial {
